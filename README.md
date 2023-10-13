@@ -12,4 +12,4 @@ Rules (rewritten for clarity):
 Languages and implementation counts:
 
 * **Ruby**: 1
-* **Rust**: 1
+* **Rust**: 2
